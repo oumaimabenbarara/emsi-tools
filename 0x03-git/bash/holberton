@@ -1,2 +1,2 @@
-echo "Holberton"
-echo "Holberton School"
+#!/bin/bash
+echo "Holberton School is so cool!"
